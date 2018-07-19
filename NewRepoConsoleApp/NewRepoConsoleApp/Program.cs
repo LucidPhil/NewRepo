@@ -10,6 +10,7 @@ namespace NewRepoConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }
